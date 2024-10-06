@@ -1,6 +1,4 @@
 
-![azur-lane-game](https://github.com/user-attachments/assets/7ef96d35-8cd9-4c9a-9e05-9ad4d563b549)
-
 - 👋 Hi, I’m @Avichiss
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
