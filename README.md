@@ -1,16 +1,19 @@
+<!-- README.md for Ramanda BP -->
+# 🔒 Hi there — I'm Ramanda! 👋
 
-![azur-lane-game](https://github.com/user-attachments/assets/ad72ac5c-7a80-419e-9337-1a6b84fb6a1f)
+<p align="center">
+  <img src="https://github.com/ramandabp.png" alt="avatar" width="120" style="border-radius:50%"/>
+</p>
 
+**🎓 Informatics Engineering Student | Networking & Cybersecurity Enthusiast**  
+**💡 Interests:** Network Security, Ethical Hacking, System Administration, and Network Design  
+**⚙️ Currently exploring:** `Penetration Testing`, `Packet Tracer`, `Wireshark`, and `Linux Security`  
+**🎯 Goal:** Become a **Network Security Engineer**
 
-- 👋 Hi, I’m @Avichiss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-<!---
-Avichiss/Avichiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me
+Saya mahasiswa Teknik Informatika yang memiliki ketertarikan besar terhadap **keamanan dan jaringan komputer**.  
+Saya suka menganalisis cara kerja jaringan, memahami potensi celah keamanan, dan membangun sistem yang aman serta efisien.  
+
+> “Security is not a product — it’s a continuous process.”
