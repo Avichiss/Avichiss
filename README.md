@@ -2,7 +2,7 @@
 # 🔒 Hi there — I'm Ramanda! 👋
 
 <p align="center">
-  <img src="https://github.com/ramandabp.png" alt="avatar" width="120" style="border-radius:50%"/>
+  <img src="https://tenor.com/l67Gm0EGJWK.gif" alt="avatar" width="120" style="border-radius:50%"/>
 </p>
 
 **🎓 Informatics Engineering Student | Networking & Cybersecurity Enthusiast**  
