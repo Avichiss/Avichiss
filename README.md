@@ -2,7 +2,7 @@
 # 🔒 Hi there — I'm Ramanda! 👋
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/l67Gm0EGJWK.gif)" alt="Coding" width="100%"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/l67Gm0EGJWK.gif)" alt="" width="100%"/>
 </p>
 
 
