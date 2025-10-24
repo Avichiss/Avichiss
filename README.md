@@ -2,8 +2,9 @@
 # 🔒 Hi there — I'm Ramanda! 👋
 
 <p align="center">
-  <img src="https://tenor.com/l67Gm0EGJWK.gif" alt=""/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/l67Gm0EGJWK.gif)" alt="Coding" width="100%"/>
 </p>
+
 
 **🎓 Informatics Engineering Student | Networking & Cybersecurity Enthusiast**  
 **💡 Interests:** Network Security, Ethical Hacking, System Administration, and Network Design  
