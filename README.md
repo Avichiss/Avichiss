@@ -27,8 +27,10 @@ Hi there — I'm Ramanda
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Avichiss&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avichiss&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avichiss&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Avichiss&show_icons=true&theme=dark)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Avichiss&theme=dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avichiss&layout=compact&theme=dark)
+
+---
 
 > “Security is not a product — it’s a continuous process.”
