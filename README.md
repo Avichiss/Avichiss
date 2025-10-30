@@ -7,8 +7,6 @@
 **💡 Interests:** Network Security, System Administration, and Network Design  
 **⚙️ Currently exploring:** `Packet Tracer`, `Wireshark`, and `Linux Security`  
 
----
-
 ## 🧠 About Me
 Saya mahasiswa Teknik Informatika yang memiliki ketertarikan besar terhadap **keamanan dan jaringan komputer**.  
 Saya suka menganalisis cara kerja jaringan, memahami potensi celah keamanan, dan membangun sistem yang aman serta efisien.  
