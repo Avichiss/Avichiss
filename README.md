@@ -5,6 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avichiss&layout=compact&theme=tokyonight)
 
+![](https://github-readme-stats.vercel.app/api?username=Avichiss&show_icons=true&theme=tokyonight)
 
 **🎓 Informatics Engineering Student | Networking Enthusiast**  
 **💡 Interests:** Network Security, System Administration, and Network Design  
