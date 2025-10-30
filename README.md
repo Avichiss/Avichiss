@@ -1,5 +1,5 @@
 <!-- README.md for Ramanda BP -->
-# ⚙️ Ramanda Bagus P  
+# 💻 Ramanda Bagus P  
 ### 🎓 Informatics Engineering Student | 🔒 Networking & Security Enthusiast  
 
 ---
