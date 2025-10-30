@@ -3,6 +3,9 @@
 
 ![fini-lmi](https://github.com/user-attachments/assets/26a19dd0-75a1-4f07-80dd-49edba250a8f)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avichiss&layout=compact&theme=tokyonight)
+
+
 **🎓 Informatics Engineering Student | Networking Enthusiast**  
 **💡 Interests:** Network Security, System Administration, and Network Design  
 **⚙️ Currently exploring:** `Packet Tracer`, `Wireshark`, and `Linux Security`  
