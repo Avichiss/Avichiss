@@ -1,9 +1,7 @@
 <!-- README.md for Ramanda BP -->
 # 🔒 Hi there — I'm Ramanda! 👋
 
-<center>
 ![fini-lmi](https://github.com/user-attachments/assets/26a19dd0-75a1-4f07-80dd-49edba250a8f)
-</center>
 
 **🎓 Informatics Engineering Student | Networking Enthusiast**  
 **💡 Interests:** Network Security, System Administration, and Network Design  
