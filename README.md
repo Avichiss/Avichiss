@@ -1,5 +1,5 @@
 <!-- README.md for Ramanda BP -->
-# ⚙️ Ramanda BP  
+# ⚙️ Ramanda Bagus P  
 ### 🎓 Informatics Engineering Student | 🔒 Networking & Security Enthusiast  
 
 ---
@@ -53,6 +53,6 @@
 <div align="center">
 
 > “Security is not a product — it’s a continuous process.”  
-> — *Ramanda BP*
+> — *RM86*
 
 </div>
