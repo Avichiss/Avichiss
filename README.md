@@ -1,10 +1,7 @@
 <!-- README.md for Ramanda BP -->
 # 🔒 Hi there — I'm Ramanda! 👋
 
-<p align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://tenor.com/l67Gm0EGJWK.gif)" alt="" width="100%"/>
-</p>
-
+![yeoxoly](https://github.com/user-attachments/assets/be062552-b92c-41af-8653-ed84b5858ddd)
 
 **🎓 Informatics Engineering Student | Networking & Cybersecurity Enthusiast**  
 **💡 Interests:** Network Security, Ethical Hacking, System Administration, and Network Design  
