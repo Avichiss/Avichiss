@@ -1,12 +1,13 @@
 <!-- README.md for Ramanda BP -->
 # 🔒 Hi there — I'm Ramanda! 👋
 
-![yeoxoly](https://github.com/user-attachments/assets/be062552-b92c-41af-8653-ed84b5858ddd)
+<center>
+![fini-lmi](https://github.com/user-attachments/assets/26a19dd0-75a1-4f07-80dd-49edba250a8f)
+</center>
 
-**🎓 Informatics Engineering Student | Networking & Cybersecurity Enthusiast**  
-**💡 Interests:** Network Security, Ethical Hacking, System Administration, and Network Design  
-**⚙️ Currently exploring:** `Penetration Testing`, `Packet Tracer`, `Wireshark`, and `Linux Security`  
-**🎯 Goal:** Become a **Network Security Engineer**
+**🎓 Informatics Engineering Student | Networking Enthusiast**  
+**💡 Interests:** Network Security, System Administration, and Network Design  
+**⚙️ Currently exploring:** `Packet Tracer`, `Wireshark`, and `Linux Security`  
 
 ---
 
